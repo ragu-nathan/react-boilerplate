@@ -2,6 +2,8 @@
 A ready to use simple boilerplate for React Apps.
 
 # Instructions
-Clone the repo
-Run npm install
-Run npm start
+```bash
+git clone https://github.com/ragu-nathan/react-boilerplate.git
+cd react-boilerplate
+npm install
+```
